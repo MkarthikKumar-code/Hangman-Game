@@ -1,0 +1,10 @@
+Hangman Game Instructions:
+1. A random word is selected from one of three categories: Car, Animal, or Fruit/Vegetable.
+2. The first letter of the word is revealed; the rest are hidden as underscores.
+3. You have 7 attempts to guess the word by entering one letter at a time.
+4. Each correct guess reveals all occurrences of that letter.
+5. Each wrong guess draws one more part of the hangman and reduces your remaining attempts by one.
+6. If you guess all the letters before using up all attempts, you win!
+7. If you use all 7 wrong guesses, the game is over and you lose.
+8. Use the Game menu to start a New Game, view Instructions, or Exit at any time.
+Good luck and have fun!
